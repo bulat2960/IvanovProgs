@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524051171 source:d:\programming\Мои проекты\Олимпиада ПМ-ПУ\ЧМ2\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<algorithm>
+
